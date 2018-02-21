@@ -2,8 +2,12 @@
 title: Studentkjellernes personalforening
 ---
 
+<header>
+  <h1>Studentkjellernes personalforening</h1>
+  <p>Yter personaltjenester for samtlige studentkjellere, samt andre foreninger med betalte tjenester utad.</p>
+</header>
 
-Studentkjellernes personalforening er en samarbeidsforening mellom [Cybernetisk Selskab], [Kjellerutvalget],
+Studentkjellernes personalforening er en samarbeids- og personalforening mellom [Cybernetisk Selskab], [Kjellerutvalget],
 [Realistforeningen], [RF-regi], [Medicinerforeningen], [Samfunnsvitenskapelig fakultetsforening] og [Uglebo].
 
 Har du noen spørsmål som ikke er svart på her? Ta kontakt med [SPF sitt styre][epost].
@@ -44,6 +48,7 @@ Har du noen spørsmål som ikke er svart på her? Ta kontakt med [SPF sitt styre
 * ... trenger tilgang til SPBM:
 
   → Kontakt din lokale utlånsansvarlig, alternativt [styret til SPF][epost].
+
 
 [Cybernetisk Selskab]: http://cyb.no
 [Kjellerutvalget]: https://www.facebook.com/TraugotsKjeller/
