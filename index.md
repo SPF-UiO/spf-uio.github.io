@@ -3,7 +3,7 @@ title: Studentkjellernes personalforening
 ---
 
 
-Studentkjellernes personalforening er en samarbeidsforening mellom [Cybernetisk Selskab], [Kjellerutvalget]
+Studentkjellernes personalforening er en samarbeidsforening mellom [Cybernetisk Selskab], [Kjellerutvalget],
 [Realistforeningen], [RF-regi], [Medicinerforeningen], [Samfunnsvitenskapelig fakultetsforening] og [Uglebo].
 
 Har du noen spørsmål som ikke er svart på her? Ta kontakt med [SPF sitt styre][epost].
@@ -50,7 +50,7 @@ Har du noen spørsmål som ikke er svart på her? Ta kontakt med [SPF sitt styre
 [Realistforeningen]: https://foreninger.uio.no/rf/
 [RF-regi]: https://foreninger.uio.no/rf/regi/
 [Medicinerforeningen]: https://foreninger.uio.no/medicinerforeningen/
-[Samfunnsvitenskapelig fakultetsforening]: https://svff.no/
+[Samfunnsvitenskapelig fakultetsforening]: http://svff.no/
 [Uglebo]: https://foreninger.uio.no/filologisk-forening/
 
 [epost]: mailto:&#115;&#112;&#102;&#045;&#115;&#116;&#121;&#114;&#101;&#116;&#064;&#115;&#116;&#117;&#100;&#111;&#114;&#103;&#046;&#117;&#105;&#111;&#046;&#110;&#111;
