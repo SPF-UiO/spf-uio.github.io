@@ -1,0 +1,22 @@
+{%- unless include.link -%}
+{% assign btn_disabled = " btn--disabled" %}
+{%- else -%}
+{% assign btn_disabled = "" %}
+{%- endunless -%}
+
+
+{%- if include.btn -%}
+{% assign btn = include.btn %}
+{%- else -%}
+{% assign btn = "primary" %}
+{%- endif -%}
+
+<a class="btn text-center btn--{{ btn }}{{ btn_disabled }}" rel="external"
+	{% if include.link -%}
+	href="{{ include.link }}"
+	title="{{ include.title }}"
+	{%- endif -%}
+	>
+	{{ include.text | default: "Send" }}
+	<i class="fas fa-fw fa-{{ include.icon | default: "info"  }}"></i>
+</a>
