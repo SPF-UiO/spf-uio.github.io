@@ -9,12 +9,9 @@ excerpt: |
 layout: splash
 header:
   #overlay_color: lightgray
-  overlay_color: '#CE2029'
+  overlay_color: 'cornflowerblue'
   cta_label: Kontakt våre utleiere &nbsp; <i class='fas fa-fw fa-users'></i>
   cta_url: '#utleie-og-medlemmer'
-
-intro:
-  - excerpt: Hva burde stå her?
 
 feature_row:
   - title: Arbeidere
