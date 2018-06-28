@@ -1,0 +1,21 @@
+backend:
+  name: github
+  repo: "SPF-UiO/spf.no"
+
+publish_mode: editorial_workflow
+media_folder: "assets/images"
+
+collections:
+  - name: "pages"
+    label: "Pages"
+    folder: "_pages"
+    create: True
+    slug: "{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "string", default: "single"}
+      - {label: "Tittel", name: "title", widget: "string"}
+      - {label: "URL", name: "permalink", widget: "string"}
+      - {label: "Publiseringsdato", name: "date", widget: "datetime"}
+      - {label: "Fremhevet bilde", name: "thumbnail", widget: "image"}
+      - {label: "Innhold", name: "body", widget: "markdown"}
+
