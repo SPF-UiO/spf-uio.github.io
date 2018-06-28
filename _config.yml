@@ -1,6 +1,25 @@
 title: Studentkjellernes personalforening
+name: Studentkjellernes personalforening
 description: Samarbeidsforening for studentkjellerne ved Universitetet i Oslo. Samtlig betalt personell ved kjellerne er ansatt hos oss.
-locale: "nb-NO"
+locale: 'nb-NO'
+timezone: Europe/Oslo
+url: 'https://spf.no'
+
+# Social sites
+social:
+  type: Organization
+  links:
+    - 'https://www.linkedin.com/company/studentkjellernes-personalforening/'
+
+author:
+  github: SPF-UiO
+
+# Set up Google Analytics
+analytics:
+  provider: 'google-gtag'
+  google:
+    tracking_id: 'UA-4482117-3'
+
 
 # See Gemfile for source
 theme: minimal-mistakes-jekyll
@@ -11,12 +30,12 @@ include:
 
 defaults:
   # _pages (our pages)
-  -
-    scope:
-      path: "_pages"
+  - scope:
+      path: '_pages'
       type: pages
     values:
-      layout: "single"
+      layout: 'single'
+
 
 # Markdown Processing
 kramdown:
@@ -42,6 +61,4 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
-
 
