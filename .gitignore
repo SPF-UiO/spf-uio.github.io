@@ -1,3 +1,9 @@
 _site/
 .sass-cache/
 .jekyll-metadata
+
+# Ruby and such
+Gemfile.lock
+.bundle/
+vendor/
+
