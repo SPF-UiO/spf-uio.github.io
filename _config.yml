@@ -27,6 +27,7 @@ theme: minimal-mistakes-jekyll
 # What should we include and exclude?
 include:
   - _pages
+  - _redirects
 
 defaults:
   # _pages (our pages)

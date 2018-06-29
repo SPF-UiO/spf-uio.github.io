@@ -1,0 +1,2 @@
+# Attempt to see if we can proxy/show our management site
+https://app.spf.no/* https://spf.cyb.no/:splat 200
