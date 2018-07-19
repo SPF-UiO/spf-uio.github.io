@@ -1,5 +1,5 @@
 ---
-title: Hvem er SPF, og hva gjør vi?
+title: Arbeidsgiver for studenter tilknyttet studentkjellerne
 permalink: /
 excerpt: |
   Vi er arbeidsgiveren for frivillige ved studentkjellerne tilknyttet Universitet i Oslo,
