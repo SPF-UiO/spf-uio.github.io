@@ -11,6 +11,7 @@
   name: Traugots kjeller
   org: Kjellerutvalget
   url: https://www.facebook.com/TraugotsKjeller/
+  map_url: https://goo.gl/maps/fhoDnsFKcH22
   contact: "mailto:&#107;&#106;&#101;&#108;&#108;&#101;&#114;&#117;&#116;&#118;&#97;&#108;&#103;&#101;&#116;&#64;&#117;&#118;&#46;&#117;&#105;&#111;&#46;&#110;&#111;"
 
 - type: pub
@@ -32,12 +33,14 @@
   name: U1
   org: Samfunnsvitenskapelig fakultetsforening
   url: https://svff.no
+  map_url: https://goo.gl/maps/HDWLGDdiPXr
   contact: "mailto:&#117;&#116;&#108;&#101;&#105;&#101;&#64;&#115;&#118;&#102;&#102;&#46;&#110;&#111;"
 
 - type: pub
   name: Uglebo
   org: Filologisk forening
   url: https://foreninger.uio.no/filologisk-forening/
+  map_url: https://goo.gl/maps/6u6BtrBMxzK2
   contact: "mailto:&#117;&#116;&#108;&#97;&#110;&#64;&#117;&#103;&#108;&#101;&#98;&#111;&#46;&#110;&#111;"
 
 - type: rental
